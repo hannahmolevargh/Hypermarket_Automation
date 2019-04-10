@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">701098270378-1naonpvretl02bhs2aaiq5u2lfdjvh3u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hypercart-97533.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">701098270378</string>
+    <string name="google_api_key" translatable="false">AIzaSyAN9xJ4Uj8TBp3ODrMU2_-EqHfI9vsL9rg</string>
+    <string name="google_app_id" translatable="false">1:701098270378:android:6cd1ead463affc30</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAN9xJ4Uj8TBp3ODrMU2_-EqHfI9vsL9rg</string>
+    <string name="google_storage_bucket" translatable="false">hypercart-97533.appspot.com</string>
+    <string name="project_id" translatable="false">hypercart-97533</string>
+</resources>
